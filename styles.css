@@ -15,13 +15,19 @@ body {
     font-family: Amatic SC;
     text-align: center;
     font-size: 48px;
-    color: black;
+    color: rgb(51, 51, 51);
 }
 
 .pa {
     font-family: shadows into light;
     font-size: 32px;
-    color: rgb(51, 51, 51);
+    color: black;
+}
+
+.pb {
+    font-family: shadows into light;
+    font-size: 28px;
+    color: black ;
 }
 
 .arrowimg {
@@ -65,3 +71,14 @@ body {
     font-size: 60px;
     text-align: center;
 }
+
+.quotes {
+    font-size: 40px;
+    font-family: shadows into light;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    text-align: center;
+}
+
