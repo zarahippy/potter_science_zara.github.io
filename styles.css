@@ -1,0 +1,67 @@
+@import url('https://fonts.googleapis.com/css2?family=Amatic+SC:wght@700&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Shadows+Into+Light&display=swap');
+
+body {
+    background-color: beige;
+}
+
+.title {
+    font-family: 'Langar';
+    color: black;
+    text-align: center;
+}
+
+.Heading1 {
+    font-family: Amatic SC;
+    text-align: center;
+    font-size: 48px;
+    color: black;
+}
+
+.pa {
+    font-family: shadows into light;
+    font-size: 32px;
+    color: rgb(51, 51, 51);
+}
+
+.arrowimg {
+    display: flex;
+    align-items:center;
+    justify-content:center;
+
+}
+
+.topnav {
+    background-color: rgb(8, 5, 5);
+    overflow: hidden;
+   
+  }
+  
+.topnav a {
+    float: left;
+    color: #f2f2f2;
+    text-align: center;
+    padding: 23px 25px;
+    font-size: 26px;
+    font-family: Amatic SC;
+}
+
+.topnav a:hover {
+    background-color: rgb(246, 250, 10);
+    color: black;
+    font-family: shadows into light;
+      }
+
+.topnav a.active {
+    background-color: gray;
+    color: rgb(234, 255, 49);
+    font-family: Amatic SC;
+      }
+
+.whatplayer {
+    background-color: yellow;
+    border: 5px outset blanchedalmond;
+    font-family: Amatic SC;
+    font-size: 60px;
+    text-align: center;
+}
