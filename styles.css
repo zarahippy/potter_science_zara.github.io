@@ -121,20 +121,10 @@ body {
     font-family: shadows into light;
     display: flex;
     flex-direction: row;
-    justify-content: space-between;
+    justify-content: space-around;
     align-items: center;
     text-align: center;
 }
-
-.quotes2 {
-    font-size: 40px;
-    font-family: shadows into light;
-    text-align: center;
-    display: flex;
-    display: flex;
-    flex-direction: row;
-    justify-content: space-between;
-    align-items: flex-end}
 
     
     .flip-card {
