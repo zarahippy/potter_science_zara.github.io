@@ -28,9 +28,30 @@ body {
 
 .slyth {
   font-family: Amatic SC;
-  text-align: center;
+  text-align: left;
   font-size: 48px;
   color: rgb(30, 105, 20);
+}
+
+.gryff {
+  font-family: Amatic SC;
+  text-align: left;
+  font-size: 48px;
+  color: rgb(112, 8, 22);
+}
+
+.huff {
+  font-family: Amatic SC;
+  text-align: left;
+  font-size: 48px;
+  color: rgb(178, 180, 18);
+}
+
+.raven {
+  font-family: Amatic SC;
+  text-align: left;
+  font-size: 48px;
+  color: rgb(14, 21, 112);
 }
 
 
