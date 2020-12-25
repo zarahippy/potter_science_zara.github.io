@@ -9,7 +9,7 @@ body {
 
 .robot {
   font-family: Roboto Mono;
-  font-size: 26px;
+  font-size: 20px;
 }
 
 
@@ -26,6 +26,14 @@ body {
     color: rgb(51, 51, 51);
 }
 
+.slyth {
+  font-family: Amatic SC;
+  text-align: center;
+  font-size: 48px;
+  color: rgb(30, 105, 20);
+}
+
+
 .pa {
     font-family: shadows into light;
     font-size: 32px;
@@ -38,11 +46,6 @@ body {
     color: black ;
 }
 
-.pc {
-  font-size: 33px;
-  font-family: Amatic SC;
-  color: rgb(9, 80, 9);
-}
 
 .px {
     font-family: amatic sc;
