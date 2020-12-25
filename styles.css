@@ -9,7 +9,7 @@ body {
 
 .robot {
   font-family: Roboto Mono;
-  font-size: 26px;
+  font-size: 29px;
 }
 
 
@@ -36,6 +36,11 @@ body {
     font-family: shadows into light;
     font-size: 28px;
     color: black ;
+}
+
+.pc {
+  font-size: 33px;
+  font=font-family: amatic sc;
 }
 
 .px {
