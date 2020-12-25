@@ -30,6 +30,12 @@ body {
     color: black ;
 }
 
+.px {
+    font-family: amatic sc;
+    size: 30px;
+    font-size: 30px;
+}
+
 .arrowimg {
     display: flex;
     align-items:center;
@@ -81,4 +87,18 @@ body {
     align-items: center;
     text-align: center;
 }
+
+.quotes2 {
+    font-size: 40px;
+    font-family: shadows into light;
+    text-align: center;
+    display: flex;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: flex-end}
+
+
+
+
 
