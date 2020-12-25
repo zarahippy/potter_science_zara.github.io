@@ -131,7 +131,6 @@ body {
         background-color: transparent;
         width: 360px;
         height: 220px;
-        perspective: 500px;
       }
       
       .flip-card-inner {
@@ -157,7 +156,7 @@ body {
       }
       
       .flip-card-front {
-        background-color: #bbb;
+        background-color: burlywood;
         color: black;
       }
       
