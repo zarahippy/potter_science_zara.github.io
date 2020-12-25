@@ -131,7 +131,7 @@ body {
         background-color: transparent;
         width: 360px;
         height: 220px;
-        perspective: 1000px;
+        perspective: 500px;
       }
       
       .flip-card-inner {
